@@ -3,13 +3,22 @@ Master data strategy, security and governance with this repo—explore key princ
 
 # Basics
 1. What is Strategy?
-2. What is Planning?
+2. Why do we need Strategy?
+3. What is Planning?
+4. Why do we need Planning?
+5. 
 
-# Framework
+# Strategic Learning - A Framework for effective strategy
 1. Learn
-2. Focus
-3. Align
-4. Execute
+3.    Discover - Current State, Gaps, Gap Champions
+4. Focus
+5.   Define Value Proposition
+6.   Shortlist top 3 to 5 priorities.
+7. Align
+   a. People
+   b. Process
+   c. Technology
+8. Execute
 
 # Examples
 1. Stanford Children's Health Vision 2025
