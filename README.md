@@ -2,8 +2,8 @@
 Master data strategy, security and governance with this repo—explore key principles, frameworks, and techniques for leveraging data effectively.
 
 # Basics
-What is Strategy?
-What is Planning?
+1. What is Strategy?
+2. What is Planning?
 
 # Framework
 1. Learn
