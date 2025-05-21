@@ -24,7 +24,8 @@ Master data strategy, security and governance with this repo—explore key princ
 - Data Strategy for Hypothetical Professional Service Firms
 
 ## Learning Videos
-
+- Python
+- 
 ## Important Folks Who Taught Me these Concepts, & Ideas
 -  
 
